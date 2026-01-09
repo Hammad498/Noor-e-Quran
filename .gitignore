@@ -44,5 +44,5 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-assets/verses/
-assets/data/surah-details/
+# assets/verses/
+# assets/data/surah-details/
