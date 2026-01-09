@@ -1,0 +1,13 @@
+{
+  "name": "audio-proxy",
+  "version": "1.0.0",
+  "description": "Simple CORS proxy for audio files used by noor_e_quran during development",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.12"
+  }
+}
