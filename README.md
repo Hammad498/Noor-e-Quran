@@ -14,7 +14,7 @@ A beautiful, feature-rich Quran application built with Flutter. Read, listen, bo
 - **Responsive UI**: Works on mobile, tablet, and web
 - **Offline Support**: Assets cached locally for offline reading
 
----
+---////
 
 ## 🏗️ Architecture & Folder Structure
 
