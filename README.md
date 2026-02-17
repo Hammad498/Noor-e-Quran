@@ -2,7 +2,7 @@
 
 A beautiful, feature-rich Quran application built with Flutter. Read, listen, bookmark, and explore the Holy Quran with English translations and audio recitations.
 
-## 📱 Features
+## 📱 Features......
 
 - **Complete Quran**: All 114 Surahs with Arabic text.........
 - **English Translations**: Sahih International translation for all verses
